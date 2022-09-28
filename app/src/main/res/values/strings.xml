@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Yassir</string>
+    <string name="vivamus_porttitor_erat_at_aliquam_mollis_risus_ligula_suscipit_metus_id_semper_nisi_dui_lacinia_leo_praesent_at_feugiat_sem_vivamus_consectetur_arcu_sit_amet_metus_efficitur_dapibus_sed_metus_ligula_efficitur_quis_finibus_nec_pellentesque_nec_nulla_nunc_nec_magna_iaculis_turpis_vehicula_condimentum_id_lobortis_lectus_n_nquisque_augue_diam_convallis_nec_mollis_in_placerat_nec_elit_aliquam_non_erat_tristique_consequat_tortor_ultricies_sodales_erat_aliquam_quis_enim_eu_nulla_facilisis_sollicitudin_eu_mollis_mauris_donec">Vivamus porttitor, erat at aliquam mollis, risus ligula suscipit metus, id semper nisi dui lacinia leo. Praesent at feugiat sem. Vivamus consectetur arcu sit amet metus efficitur dapibus. Sed metus ligula, efficitur quis finibus nec, pellentesque nec nulla. Nunc nec magna iaculis turpis vehicula condimentum id lobortis lectus. \n\nQuisque augue diam, convallis nec mollis in, placerat nec elit. Aliquam non erat tristique, consequat tortor ultricies, sodales erat. Aliquam quis enim eu nulla facilisis sollicitudin eu mollis mauris. Donec ornare urna non libero volutpat tempus. Mauris elementum egestas ex, a laoreet urna. Ut a magna mattis, sodales massa a, blandit justo.</string>
+    <string name="gallery_image">Gallery Image</string>
+    <string name="top_gun">Top Gun</string>
+    <string name="retry">Retry</string>
+    <string name="refresh">Refresh</string>
+    <string name="error_occurred_kindly_retry">Error occurred. Kindly retry</string>
+    <string name="backdrop_image">Backdrop Image</string>
+    <string name="poster">Poster</string>
+    <string name="_2015_06_09">2015-06-09</string>
+    <string name="release_date">Release Date</string>
+    <string name="_9_5_10">9.5/10</string>
+    <string name="rating">Rating</string>
+    <string name="vote_count">Vote Count</string>
+    <string name="_2334">2334</string>
+    <string name="overview">Overview</string>
+    <string name="_13_438976">13.438976</string>
+    <string name="popularity">Popularity</string>
+    <string name="silver_linings_playbook">Silver Linings Playbook</string>
+    <string name="_7_5">7.5</string>
+</resources>
